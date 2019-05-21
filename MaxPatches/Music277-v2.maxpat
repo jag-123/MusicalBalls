@@ -128,20 +128,20 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "bang" ],
-					"patching_rect" : [ 1279.0, 1106.0, 215.0, 22.0 ],
+					"patching_rect" : [ 1279.0, 1106.0, 194.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 208.130612244897947, "ticks" ],
+						"originallength" : [ 6312.337414965985772, "ticks" ],
 						"originaltempo" : 119.999999999999986,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
 						"timestretch" : [ 0 ]
 					}
 ,
-					"text" : "sfplay~ @audiofile Perc2.wav @loop 1"
+					"text" : "sfplay~ @audiofile dc8.aif @loop 1"
 				}
 
 			}
@@ -152,20 +152,20 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "bang" ],
-					"patching_rect" : [ 1092.0, 1141.0, 211.0, 22.0 ],
+					"patching_rect" : [ 1092.0, 1141.0, 194.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 679.771428571428487, "ticks" ],
+						"originallength" : [ 6312.315646258502966, "ticks" ],
 						"originaltempo" : 119.999999999999986,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
 						"timestretch" : [ 0 ]
 					}
 ,
-					"text" : "sfplay~ @audiofile Snap.wav @loop 1"
+					"text" : "sfplay~ @audiofile dc7.aif @loop 1"
 				}
 
 			}
@@ -176,20 +176,20 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "bang" ],
-					"patching_rect" : [ 930.0, 1106.0, 215.0, 22.0 ],
+					"patching_rect" : [ 930.0, 1106.0, 194.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 281.099319727891157, "ticks" ],
-						"originaltempo" : 120.0,
+						"originallength" : [ 6312.337414965985772, "ticks" ],
+						"originaltempo" : 119.999999999999986,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
 						"timestretch" : [ 0 ]
 					}
 ,
-					"text" : "sfplay~ @audiofile Snare.wav @loop 1"
+					"text" : "sfplay~ @audiofile dc6.aif @loop 1"
 				}
 
 			}
@@ -200,20 +200,20 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "bang" ],
-					"patching_rect" : [ 772.0, 1141.0, 215.0, 22.0 ],
+					"patching_rect" : [ 772.0, 1141.0, 194.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 235.842176870748318, "ticks" ],
-						"originaltempo" : 120.0,
+						"originallength" : [ 6312.337414965985772, "ticks" ],
+						"originaltempo" : 119.999999999999986,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
 						"timestretch" : [ 0 ]
 					}
 ,
-					"text" : "sfplay~ @audiofile Perc1.wav @loop 1"
+					"text" : "sfplay~ @audiofile dc5.aif @loop 1"
 				}
 
 			}
@@ -224,20 +224,20 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "bang" ],
-					"patching_rect" : [ 539.0, 1106.0, 215.0, 22.0 ],
+					"patching_rect" : [ 539.0, 1106.0, 194.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 3360.0, "ticks" ],
-						"originaltempo" : 120.0,
+						"originallength" : [ 6312.337414965985772, "ticks" ],
+						"originaltempo" : 119.999999999999986,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
 						"timestretch" : [ 0 ]
 					}
 ,
-					"text" : "sfplay~ @audiofile Crash.wav @loop 1"
+					"text" : "sfplay~ @audiofile dc4.aif @loop 1"
 				}
 
 			}
@@ -248,20 +248,20 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "bang" ],
-					"patching_rect" : [ 352.0, 1141.0, 211.0, 22.0 ],
+					"patching_rect" : [ 352.0, 1141.0, 194.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 120.010884353741503, "ticks" ],
-						"originaltempo" : 120.0,
+						"originallength" : [ 6312.315646258502966, "ticks" ],
+						"originaltempo" : 119.999999999999986,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
 						"timestretch" : [ 0 ]
 					}
 ,
-					"text" : "sfplay~ @audiofile Hihat.wav @loop 1"
+					"text" : "sfplay~ @audiofile dc3.aif @loop 1"
 				}
 
 			}
@@ -272,20 +272,20 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "bang" ],
-					"patching_rect" : [ 190.0, 1106.0, 208.0, 22.0 ],
+					"patching_rect" : [ 190.0, 1106.0, 194.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 264.163265306122469, "ticks" ],
-						"originaltempo" : 120.0,
+						"originallength" : [ 6312.337414965985772, "ticks" ],
+						"originaltempo" : 119.999999999999986,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
 						"timestretch" : [ 0 ]
 					}
 ,
-					"text" : "sfplay~ @audiofile Clap.wav @loop 1"
+					"text" : "sfplay~ @audiofile dc2.aif @loop 1"
 				}
 
 			}
@@ -319,20 +319,20 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "bang" ],
-					"patching_rect" : [ 32.0, 1141.0, 206.0, 22.0 ],
+					"patching_rect" : [ 32.0, 1141.0, 194.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"basictuning" : 440,
 						"followglobaltempo" : 0,
 						"formantcorrection" : 0,
 						"mode" : "basic",
-						"originallength" : [ 384.0, "ticks" ],
-						"originaltempo" : 120.0,
+						"originallength" : [ 6312.315646258502966, "ticks" ],
+						"originaltempo" : 119.999999999999986,
 						"pitchcorrection" : 0,
 						"quality" : "basic",
 						"timestretch" : [ 0 ]
 					}
 ,
-					"text" : "sfplay~ @audiofile Kick.wav @loop 1"
+					"text" : "sfplay~ @audiofile dc1.aif @loop 1"
 				}
 
 			}
@@ -789,7 +789,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 395.0, 772.0, 50.0, 22.0 ],
-					"text" : "white"
+					"text" : "nil"
 				}
 
 			}
@@ -4439,8 +4439,8 @@
 		"styles" : [ 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-					"fontsize" : [ 12.059008 ]
+					"fontsize" : [ 12.059008 ],
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
